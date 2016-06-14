@@ -1,0 +1,3 @@
+Number of lines of the bookings file: 10000011
+Number of lines of the searches file: 20390199
+Total number of lines of the 2 files: 30390210
